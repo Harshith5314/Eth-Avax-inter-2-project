@@ -119,4 +119,4 @@ You can deploy the contract using [Remix](https://remix.ethereum.org/) or using 
 
 This project is licensed under the MIT License.
 
-## SAI JAGAN KOTNI (saijagankotni@gmail.com)
+## Kaduluri Harshith (kaduluriharshith@gmail.com)
